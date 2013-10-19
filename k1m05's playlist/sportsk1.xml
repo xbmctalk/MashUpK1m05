@@ -1,0 +1,393 @@
+#######################################################################################################################################
+<poster>k1m05</poster>
+<fanart>http://imageshack.us/a/img18/5658/il0s.jpg</fanart>
+#######################################################################################################################################
+<info>
+<message>[COLOR=FFFF0000]09/28/13 Random HDs are up (both espn right now) | 09/25/13 Fixed all ESPNs, ESPN2s, Rndm HD, 09/17/13 Fix some espn, add UFC Next | 09/13/13 Fixed ESPN and ESPN2 | 09/08/13 Add Fox Sports,NFL Redzone TSN(Prolly wont last)[/COLOR]</message>
+<thumbnail>http://imageshack.us/scaled/large/42/tgwm.png</thumbnail>
+</info>
+##############################################################################################################################
+<item>
+<title>A random HD channel (Link 1=Redzone 720p)</title>
+<link>
+  <sublink>rtmp://23.227.165.10/iguide playpath=fuuyqg68pc7bhhk swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer.php?width=720&height=420&channel=6568&autoplay=true token=#ed%h0#w18623jsda6523lDGDve live=true timeout=10</sublink>
+  <sublink>rtmp://198.144.153.143:443/kuyo playpath=sucka?id=bc81ed32fb08a8f5df8656451cde6519&pid=39392e3139322e3131332e3230 conn=S:OK swfUrl=http://yukons.net/yplay.swf pageUrl=http://yukons.net/embed/37333735363336423631/a688e6aace33dfe4dc3d79aa6446e859/720/420 live=true timeout=10</sublink>
+  <sublink>plugin://plugin.video.jtv.archives/?url=&mode=2&name=xx_cinema_hd</sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
+</item>
+
+<title>A Nascar HQ channel (JTV addon Needed)</title>
+<link>
+  <sublink>plugin://plugin.video.jtv.archives/?url=&mode=2&name=besweeet59&iconimage=http%3A%2F%2Fstatic-cdn.jtvnw.net%2Fjtv_user_pictures%2Fcflguy1960-profile_image-sQUOuTH2fx4K2So-600x600.jpg</sublink>
+  <sublink>plugin://plugin.video.jtv.archives/?url=&mode=2&name=nascar49jeff&iconimage=http%3A%2F%2Fstatic-cdn.jtvnw.net%2Fjtv_user_pictures%2Fcflguy1960-profile_image-sQUOuTH2fx4K2So-600x600.jpg</sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
+</item>
+
+<item>
+<title>Sportsnet World</title>
+<link>rtmp://198.144.120.217/live playpath=setca swfUrl=http://udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.reyhq.com/embed1.php?live=setca&vw=620&vh=490 live=true timeout=10</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+
+<item>
+<title>BOEU</title>
+<link>http://94.242.221.141/hls/a-lo/stream47.m3u8</link>
+<thumbnail>http://www.boets.ru/wp-content/files_flatter_cache/118_118_1274058791_bg_logo_a-trans.png</thumbnail>
+</item>
+
+<item>
+<title>ESPN</title>
+<link>
+  <sublink>rtmp://live.iguide.to/edge/uvnbzi8z07tzyck swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+  <sublink>rtmp://live.iguide.to/edge/z1ixehaxwxm9q7w swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+  <sublink>rtmp://live.iguide.to/edge/xwagcs9517oghc8 swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
+</item>
+
+
+<item>
+<title>ESPN2</title>
+<link>
+  <sublink>rtmp://live.iguide.to/edge/taqzrpzo0lblsya swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+  <sublink>rtmp://live.iguide.to/edge/z7gz419g6oqwiql swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink> 
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
+</item>
+
+<item>
+<title>Eurosport International</title>
+<link>http://esioslive2-i.akamaihd.net/hls/live/201149/AL_ESP1_INT_ENG/playlist_1800.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
+</item>
+
+<item>
+<title>Eurosport UK [COLOR=FFFF0000] HD[/COLOR]</title>
+<link>http://esioslive2-i.akamaihd.net/hls/live/200728/AL_ESP1_UK_ENG/playlist_2500.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
+</item>
+
+<item>
+<title>Eurosport Serbia</title>
+<link>http://149.255.37.194/hls/8811/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
+</item>
+
+<item>
+<title>Eurosport 2 International</title>
+<link>http://esioslive2-i.akamaihd.net/hls/live/201150/AL_ESP2_INT_ENG/playlist_1800.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport2.png</thumbnail>
+</item>
+
+<item>
+<title>Eurosport 2 UK[COLOR=FFFF0000] HD[/COLOR]</title>
+<link>http://esioslive4-i.akamaihd.net/hls/live/200736/AL_ESP2_UK_ENG/playlist_2500.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
+</item>
+
+<item>
+<title>Eurosport 2 UK</title>
+<link>rtmp://s3ifl.castup.net:1935/993850080-123.flv/_definst_/_definst_</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
+</item>
+
+<item>
+<title>Extreme</title>
+<link>http://94.242.221.141/hls/a-lo/stream13.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/extreme_sports.png</thumbnail>
+</item>
+
+<item>
+<title>Fight-Box</title>
+<link>http://spiinternational-i.akamaihd.net/hls/live/204308/FIGHTBOXHD_MT_HLS/once1200.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/de/9/92/Fightbox_Logo.png</thumbnail>
+</item>
+
+<item> 
+<title>Fox Sports new</title> 
+<link>http://m24.megafun.vn/live.vs?c=vstv042&q=high</link> 
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_lam_3.png</thumbnail> 
+</item>
+
+<item>
+<title>Fox Sports Plus[COLOR=FFFF0000] HD[/COLOR]a</title>
+<link>http://113.160.49.36/lives/origin01/bts-foxhd.isml/bts-foxhd-2096k.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_asia_plus.png></thumbnail>
+</item> 
+
+<item>
+<title>Fox Sports Plus[COLOR=FFFF0000] HD[/COLOR]b</title>
+<link>http://203.162.16.22/lives/origin01/bts-foxhd.isml/bts-foxhd-2096k.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_asia_plus.png></thumbnail>
+</item> 
+
+<item>
+<title>Golf Channel</title>
+<link>rtmp://live.iguide.to/edge/o70ly0bh064qlfv swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ live=1 timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/gg/golf_channel_us.png</thumbnail>
+</item>
+
+<item>
+<title>NBATV a</title>
+<link>rtmp://31.7.58.122:1935/stream/I8s9S4H7.stream swfUrl=http://thecdn.04stream.com/p/bbp.swf live=true  pageUrl=http://www.04stream.com/</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nba_tv.png</thumbnail>
+</item>
+
+<item>
+<title>NBATV [COLOR=FFFF0000] HQ[/COLOR]</title>
+<link>http://nba247.cdnak.nbahd.neulion.com/mobile/nba/nba247/as/live/ipad_1840.m3u8 live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nba_tv.png</thumbnail>
+</item>
+
+<item>
+<title>NBC Sports</title>
+<link>rtmpe://46.246.124.10:443/liverepeater playpath=19341 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/playerg.swf pageUrl=http://featve.com/player2.php token=#fa3%#w@#33%#w@3s#Ch%143 live=true timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nbc_sports_network.png</thumbnail>
+</item>
+
+<item>
+<title>NFL Network</title>
+<link>rtmp://46.246.29.130:1935/stream/bdpZdSfpz0.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf live=true timeout=15 swfVfy=1 pageUrl=http://www.04stream.com</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nfl_network.png</thumbnail>
+</item>
+
+<item>
+<title>NFL Network</title>
+<link>rtmp://50.7.28.82/flash/17226 pageUrl=http://sawlive.tv live=true timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nfl_network.png</thumbnail>
+</item>
+
+<item>
+<title>NFL Network[COLOR=FFFF0000] HD[/COLOR]</title>
+<link>http://smb.cdnak.neulion.com/nlds/nfl/nfltv/as/live/nfltv_hd_4500.m3u8 live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nfl_network_hd.png</thumbnail>
+</item>
+
+<item>
+<title>NHL Network</title>
+<link>http://smb.cdnak.neulion.com/fs/nhl/mobile/iphone/video/nhlnetwork/ipad_1840.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nhl_network.png</thumbnail>
+</item>
+
+<item>
+<title>Outdoor Channel</title>
+<link>rtsp://lm02.everyon.tv:1935/ptv2/pld613</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/oo/outdoor_channel.png</thumbnail>
+</item>
+
+<item>
+<title>Outdoor Channel[COLOR=FFFF0000] HD[/COLOR]</title>
+<link>http://fw01.livem3u8.me.totiptv.com/live//1c551f42019d40e8acf32e8218ef8703.m3u8?bitrate=800</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_asia_plus.png></thumbnail>
+</item> 
+
+<item>
+<title>Pro Wrestling TV</title>
+<link>rtmp://80.93.53.88:1935/live/wrestling.stream</link>
+<thumbnail>http://www.pro-wrestling.tv/images/pwtv2012-1.png</thumbnail>
+</item>
+
+<item>
+<title>RedBull TV</title>
+<link>rtmp://cp93704.live.edgefcs.net:443/live playpath=redbull2@21839 swfUrl=http://img.hsni.com/images/Site_Relaunch_2007/arcade/StrobeMediaPlayback_Default.swf pageUrl=http://livetvcafe.net/ swfVfy=true live=true</link>
+<thumbnail>http://www.redbull.tv/cs/RedBull/RedBullTV/ccurl/148/709/AboutRedBullTV.png</thumbnail>
+</item>
+
+<item>
+<title>Sports Tonight</title>
+<link>rtmp://freeview.fms.visionip.tv/live playpath=sports_tonight-sports_tonight-live-25f-16x9-SD?ref=www.sportstonightlive.com&USER=STL_0001 swfUrl=http://embeddedplayer.visionip.tv/data/swf/f22ee95bcec532c04146635a1a1adf00559/player.swf</link>
+<thumbnail>http://fiskeharrison.files.wordpress.com/2011/11/sportstonight_03.gif</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 1</title>
+<link>rtmpe://46.246.29.149:1935/live/jan1 pageUrl=http://www.hdcast.tv/embedlive2.php?u=halilou&vw=640&vh=460 live=true timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports1.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 2</title>
+<link>rtmp://89.248.163.3/play?wmsAuth=VxiiPSErKc4L2lIrPMbb9gbs9sVZmmwgB7mPkcIJ92Bf00yPfnKJSM8KBErnJK/skysporthd2 pageUrl=http://www.flashcast.tv/embed.php?live=halilou&vw=600&vh=450 token=%Xr5a(nKa@#. live=true timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports2.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 3</title>
+<link>rtmpe://46.246.29.149:1935/live/jan3 pageUrl=http://www.hdcast.tv/embedlive2.php?u=halilou&vw=640&vh=460 live=true timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports3.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 4</title>
+<link>rtmpe://46.246.29.149:1935/live/jan4 pageUrl=http://www.hdcast.tv/embedlive2.php?u=halilou&vw=640&vh=460 live=true timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports4.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports F1</title>
+<link>rtmpe://46.246.29.149:1935/live/jan5 pageUrl=http://www.hdcast.tv/embedlive2.php?u=halilou&vw=640&vh=460 live=true timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_f1.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports News</title>
+<link>rtmpe://46.246.29.149:1935/live/jan20 pageUrl=http://www.hdcast.tv/embedlive2.php?u=halilou&vw=640&vh=460 live=true timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_news.png</thumbnail>
+</item>
+
+
+<item>
+<title>UFC 24/7 Access</title>
+<link>rtmp://204.107.26.229:8086/live/713.high.stream</link>
+<thumbnail>http://img266.imageshack.us/img266/6788/ij55.jpg</thumbnail>
+</item>
+
+<item>
+<title>Wrestling Weekly Shows Live</title>
+<link>
+  <sublink>rtmp://67.159.54.98:443/live/live_ppvdirectdotcom swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com live=true timeout=10</sublink>
+  <sublink>rtmp://46.105.14.26/live/me swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com live=true timeout=10</sublink>
+</link>
+<thumbnail>http://i1121.photobucket.com/albums/l514/k1m05_/wweimpact.jpg</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] B1G</title>
+<link>http://goo.gl/Fh08ox</link>
+<thumbnail>http://s2.wp.com/wp-content/themes/vip/bigtennetwork/img/logo.png?m=1345753057g</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC National 720p</title>
+<link>http://goo.gl/0CofPI</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC National 1080p</title>
+<link>http://goo.gl/QihNtv</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC National SD</title>
+<link>http://goo.gl/hwnFUD</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC Arizona 1080p</title>
+<link>http://goo.gl/9P8KEP</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC Arizona 720p</title>
+<link>http://goo.gl/yy2Y0F</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC Arizona SD</title>
+<link>http://goo.gl/zFAlPa</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC Bay Area 1080p</title>
+<link>http://goo.gl/IUIs7F</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC Bay Area 720p</title>
+<link>http://goo.gl/gHG3ty</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC Bay Area SD</title>
+<link>http://goo.gl/N741Sk</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC Los Angeles 1080p</title>
+<link>http://goo.gl/c1zkBg</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC Los Angeles 720p</title>
+<link>http://goo.gl/m4Xaul</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC Los Angeles SD</title>
+<link>http://goo.gl/4L4fym</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC Mountain 1080p</title>
+<link>http://goo.gl/lSyVT3</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC Mountain 720p</title>
+<link>http://goo.gl/6QnKIG</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC Mountain SD</title>
+<link>http://goo.gl/UhYExe</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC Oregon 1080p</title>
+<link>http://goo.gl/eRhOHd</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC Oregon 720p</title>
+<link>http://goo.gl/FLfuDu</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC Oregon SD</title>
+<link>http://goo.gl/EHfnBH</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC Washington 1080p</title>
+<link>http://goo.gl/RtRjJM</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC Washington 720p</title>
+<link>http://goo.gl/ZOww80</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC Washington SD</title>
+<link>http://goo.gl/cJQF9D</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+
+<dir>
+<name>[COLOR=green]Live Sport Events[/COLOR]</name>
+<link>https://raw.github.com/xbmctalk/MashUpK1m05/master/k1m05's%20playlist/LivePPVs.xml</link>
+<thumbnail>http://img818.imageshack.us/img818/2521/mnhv.png</thumbnail>
+</dir>

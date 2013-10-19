@@ -1,0 +1,129 @@
+#######################################################################################################################################
+<poster>k1m05</poster>
+<fanart>http://imageshack.us/a/img18/5658/il0s.jpg</fanart>
+#######################################################################################################################################
+<info>
+<message>07/18/13 [COLOR=FF00FF00]*[/COLOR] Marks Fixed tonight</message>
+<thumbnail>http://imageshack.us/scaled/large/42/tgwm.png</thumbnail>
+</info>
+
+<item>
+<title>American Dad</title>
+<link>rtmp://198.27.74.25/app playpath=americandad swfUrl=http://www.tgun.tv/jwplayer/player.swf swfVfy=true pageUrl=http://www.tgun.tv/menus/players/playerindex.php?drewcarey live=true</link>
+<thumbnail>http://fanart.tv/fanart/tv/73141/clearart/A_73141%20(0).png</thumbnail>
+</item>
+
+<item>
+<title>Cops[COLOR=FF00FF00]*[/COLOR]</title>
+<link>rtmp://198.27.74.25/app playpath=cops swfUrl=http://www.tgun.tv/jwplayer/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?cops live=true timeout=10</link>
+<thumbnail>http://fanart.tv/fanart/tv/74709/clearart/Cops-74709.png</thumbnail>
+</item>
+
+<item>
+<title>The Drew Carey Show</title>
+<link>rtmp://198.27.74.25/app playpath=drewcarey swfUrl=http://www.tgun.tv/jwplayer/player.swf swfVfy=true pageUrl=http://www.tgun.tv/menus/players/playerindex.php?drewcarey live=true</link>
+<thumbnail>http://fanart.tv/fanart/tv/71355/hdtvlogo/the-drew-carey-show-50804a07265b8.png</thumbnail>
+</item>
+
+<item>
+<title>Family Guy[COLOR=FF00FF00]*[/COLOR]</title>
+<link>rtmp://50.7.241.202/app playpath=familyguy swfUrl=http://www.tgun.tv/jwplayer/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex.php?familyguy live=true timeout=10</link>
+<thumbnail>http://fanart.tv/fanart/tv/75978/hdclearart/family-guy-50464285894c8.png</thumbnail>
+</item>
+
+<item>
+<title>King of the Hill[COLOR=FF00FF00]*[/COLOR]</title>
+<link>rtmp://50.7.241.202/app playpath=koth swfUrl=http://www.tgun.tv/jwplayer/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex.php?koth live=true timeout=10</link>
+<thumbnail>http://fanart.tv/fanart/tv/73903/clearart/K_73903.png</thumbnail>
+</item>
+
+<item>
+<title>Pawn Stars (JustinTV Needed)</title>
+<link>plugin://plugin.video.jtv.archives/?mode=2&name=weebbs</link>
+<thumbnail>http://fanart.tv/fanart/tv/111051/clearart/PawnStars-111051.png</thumbnail>
+</item>
+
+<item>
+<title>Seinfeld[COLOR=FF00FF00]*[/COLOR]</title>
+<link>rtmp://198.27.74.25/app playpath=seinfeld02 swfUrl=http://www.tgun.tv/jwplayer/player.swf swfVfy=true pageUrl=http://www.tgun.tv/menus/players/playerindex.php?seinfeld live=true timeout=10</link>
+<thumbnail>http://fanart.tv/fanart/tv/79169/clearlogo/seinfeld-79169.png</thumbnail>
+</item>
+
+<item>
+<title>South Park[COLOR=FF00FF00]*[/COLOR]</title>
+<link>rtmp://50.7.241.202/app playpath=southpark swfUrl=http://www.tgun.tv/jwplayer/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex.php?southpark live=true timeout=10</link>
+<thumbnail>http://fanart.tv/fanart/tv/75897/clearart/SouthPark-75897-3.png</thumbnail>
+</item>
+
+<item>
+<title>Star Trek</title>
+<link>rtmp://cdn.castto.me:80/lb playpath=h4xscuCnoucFD7fibBHb pageURL=http://static.castto.me swfUrl=http://www.castto.me/_.swf live=true token=#ed%h0#w@1</link>
+<thumbnail>http://fanart.tv/fanart/tv/77526/clearart/StarTrek-77526-6.png</thumbnail>
+</item>
+
+<item>
+<title>Star Trek Deep Space Nine[COLOR=FF00FF00]*[/COLOR]</title>
+<link>rtmp://198.27.74.25/app playpath=ds9 swfUrl=http://www.tgun.tv/jwplayer/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?ds9 live=true timeout=10</link>
+<thumbnail>http://fanart.tv/fanart/tv/72073/hdtvlogo/star-trek-deep-space-nine-512d4f5de718c.png</thumbnail>
+</item>
+
+<item>
+<title>Star Trek Enterprise[COLOR=FF00FF00]*[/COLOR]</title>
+<link>rtmp://50.7.241.202/app playpath=trekent swfUrl=http://www.tgun.tv/jwplayer/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex.php?trekent live=true timeout=10</link>
+<thumbnail>http://fanart.tv/fanart/tv/73893/clearart/S_73893%20(0).png</thumbnail>
+</item>
+
+<item>
+<title>Star Trek The Next Generation[COLOR=FF00FF00]*[/COLOR]</title>
+<link>rtmp://198.27.74.25/app playpath=tng swfUrl=http://www.tgun.tv/jwplayer/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?tng live=true timeout=10</link>
+<thumbnail>http://fanart.tv/fanart/tv/71470/clearart/StarTrekTheNextGeneration-71470-2.png</thumbnail>
+</item>
+
+<item>
+<title>Star Trek Voyager[COLOR=FF00FF00]*[/COLOR]</title>
+<link>rtmp://46.19.140.242/app playpath=16234 app=app pageURL=http://www.shidurlive.com/stream/4e7a59325a6a63354d7a493d/cc4f7c9c1f13 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=true timeout=10</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Star_Trek_Voyager_title.svg/800px-Star_Trek_Voyager_title.svg.png</thumbnail>
+</item>
+
+<item>
+<title>The X-Files[COLOR=FF00FF00]*[/COLOR]</title>
+<link>rtmp://50.7.241.202/app playpath=xfiles swfUrl=http://www.tgun.tv/jwplayer/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex.php?xfiles live=true timeout=10</link>
+<thumbnail>http://fanart.tv/fanart/tv/77398/hdclearart/the-x-files-5119db4e0f28c.png</thumbnail>
+</item>
+
+<item>
+<title>That 70s Show</title>
+<link>rtmp://198.27.74.25/app playpath=that70sshow swfUrl=http://www.tgun.tv/jwplayer/player.swf swfVfy=true pageUrl=http://www.tgun.tv/menus/players/playerindex.php?drewcarey live=true</link>
+<thumbnail>http://fanart.tv/fanart/tv/73787/clearart/T_73787%20(4).png</thumbnail>
+</item>
+
+<item>
+<title>The Big Bang Theory[COLOR=FF00FF00]*[/COLOR]</title>
+<link>rtmp://50.7.241.202/app playpath=tbbt swfUrl=http://www.tgun.tv/jwplayer/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex.php?tbbt live=true timeout=10</link>
+<thumbnail>http://fanart.tv/fanart/tv/80379/hdclearart/the-big-bang-theory-50b893917b448.png</thumbnail>
+</item>
+
+<item>
+<title>The Simpsons[COLOR=FF00FF00]*[/COLOR]</title>
+<link>rtmp://50.7.241.202/app playpath=simpsons swfUrl=http://www.tgun.tv/jwplayer/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex.php?simpsons live=true timeout=10</link>
+<thumbnail>http://fanart.tv/fanart/tv/71663/hdclearart/the-simpsons-50bcedc14b318.png</thumbnail>
+</item>
+
+<item>
+<title>The Walking Dead[COLOR=FF00FF00]*[/COLOR]</title>
+<link>rtmp://198.27.74.25/app playpath=twd swfUrl=http://www.tgun.tv/jwplayer/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?twd live=true</link>
+<thumbnail>http://fanart.tv/fanart/tv/153021/hdtvlogo/the-walking-dead-504488b4bf895.png</thumbnail>
+</item>
+
+<item>
+<title>Trailer Park Boys[COLOR=FF00FF00]*[/COLOR]</title>
+<link>rtmp://50.7.241.202/app playpath=tpb swfUrl=http://www.tgun.tv/jwplayer/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex.php?tpb live=true timeout=10</link>
+<thumbnail>http://fanart.tv/fanart/tv/70566/clearart/T_70566.png</thumbnail>
+</item>
+
+<item>
+<title>Two and a Half Men[COLOR=FF00FF00]*[/COLOR]</title>
+<link>rtmp://50.7.241.202/app playpath=men swfUrl=http://www.tgun.tv/jwplayer/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex.php?men live=true timeout=10</link>
+<thumbnail>http://fanart.tv/fanart/tv/72227/hdclearart/two-and-a-half-men-5112c19cd6b73.png</thumbnail>
+</item>
+

@@ -1,0 +1,85 @@
+#######################################################################################################################################
+<poster>k1m05</poster>
+<fanart>http://imageshack.us/a/img18/5658/il0s.jpg</fanart>
+#######################################################################################################################################
+<info>
+<message>10/08/13 Fixed Fox News</message>
+<thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
+</info>
+
+##############################################################################################################################
+
+<item>
+<title>BBC World News a</title>
+<link>
+<sublink>rtmp://dvrrtmp1.giniko.com/bbcnews/mp4:bbcnews.stream</sublink>
+<sublink>rtmp://live.iguide.to/edge/1kmj8d0b78n6w9m swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ live=1 timeout=10</sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bbc_world_news.png</thumbnail>
+</item>
+
+<item>
+<title>Bloomberg</title>
+<link>rtmp://cp116697.live.edgefcs.net:80/live/BnazlkNDpCIcD-QkfyZCQKlRiiFnVa5I_640_360_440@18679 swfUrl=http://player.ooyala.com/cacheable/c78f866930724ffedfe8cf5349712569/player_v2.swf swfVfy=true live=true timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bloomberg_tv_asia.png</thumbnail>
+</item>
+
+<item>
+<title>CNBC</title>
+<link>rtmp://live.iguide.to/edge/5vnuyn0qrl8vty7 swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/cnbc.png</thumbnail>
+</item>
+
+<item>
+<title>CNN</title>
+<link>rtmp://live.iguide.to/edge/pevmm1onhjyufpg swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/cnn_usa.png</thumbnail>
+</item>
+
+<item>
+<title>Euro News</title>
+<link>rtmp://live.iguide.to/edge/fg2fwiffpklotoc swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/euronews.png</thumbnail>
+</item>
+
+<item>
+<title>Fox Business</title>
+<link>http://live.webcaston.com:1935/live/channel/aaj01/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_business.png</thumbnail>
+</item>
+
+<item>
+<title>Fox News</title>
+<link>rtmp://live.iguide.to/edge/ohn58e97er36vjr swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_news_channel.png</thumbnail>
+</item>
+
+<item>
+<title>KFOR-TV [COLOR=FFFFD700](Oklahoma)[/COLOR]</title>
+<link>rtmp://96.6.41.69/live?_fcs_vhost=cp76676.live.edgefcs.net/xha3JkNDob-DtufEX1a5Rh4EkV6gVnRW_640_480_500@18842 swfUrl=http://player.ooyala.com/static/cacheable/c3d327ff6e3f06fdde769275ca5ef76f/player_v2.swf pageUrl=http://kfor.com/on-air/live-streaming/ live=true timeout=10</link>
+<thumbnail>http://s1.wp.com/wp-content/themes/vip/localtvcommon/_img/kfor_logo.png</thumbnail>
+</item>
+
+<item>
+<title>MSNBC</title>
+<link>http://live.webcaston.com:1935/live/channel/ms3221/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/msnbc.png</thumbnail>
+</item>
+
+<item>
+<title>NHK World</title>
+<link>rtmp://ca-1.net.fivecool.org/nhkw/gwm</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nhk_world.png</thumbnail>
+</item>
+
+<item>
+<title>Weather Nation</title>
+<link>rtmp://cp77659.live.edgefcs.net/live playpath=0_c6zkpyg0_1@2781 swfUrl=http://cdnbakmi.kaltura.com/p/931702/sp/93170200/flash/kdp3/v3.6.17/kdp3.swf pageUrl=http://www.lyngsat-stream.com/tvchannels/us/WeatherNation.html live=true timeout=10</link>
+<thumbnail>http://i1121.photobucket.com/albums/l514/k1m05_/WeatherNation-Logo1.png</thumbnail>
+</item>
+
+<item>
+<title>Weather Channel</title>
+<link>rtmp://live.iguide.to/edge/0ofj5z5lab0b3ox swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/the_weather_channel_us.png</thumbnail>
+</item>
